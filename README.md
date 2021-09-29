@@ -4,6 +4,10 @@ This repo is the source code created for an article I wrote about how to create 
 
 [Konuyu detaylı Anlatan makale](https://medium.com/p/29f943a45d09).
 
+
+Sayfa Önizleme
+![](https://ibb.co/jbNs6sj)
+
 ## Project setup
 ```
 npm install
