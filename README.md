@@ -6,7 +6,7 @@ This repo is the source code created for an article I wrote about how to create 
 
 
 Sayfa Önizleme
-![](https://ibb.co/jbNs6sj)
+![](https://i.ibb.co/gm2hjhc/charts.png)
 
 ## Project setup
 ```
