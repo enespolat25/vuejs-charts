@@ -2,6 +2,10 @@
 
 This repo is the source code created for an article I wrote about how to create charts and graphs in Vue.js. This code shows you how to had both a bar chart and line chart to a Vue.js application.
 
+
+[Demo](https://vuejs-charts-enespolat.netlify.app/)
+
+
 [Konuyu detaylı Anlatan makale](https://medium.com/p/29f943a45d09).
 
 
